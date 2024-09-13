@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64 arm64v8/mysql:5.7
+--platform=linux/arm64 arm64v8/alpine:3.20.3
