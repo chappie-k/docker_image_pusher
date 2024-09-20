@@ -1,2 +1,2 @@
 #支持指定架构 
---platform=linux/arm64 arm64v8/calico/cni:v3.13.1
+--platform=linux/arm64 calico/cni:v3.13.1
