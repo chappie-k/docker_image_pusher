@@ -1,2 +1,2 @@
 #支持指定架构 
---platform=linux/arm64 somta/juggle:latest
+--platform=linux/arm64 somta/juggle:v1.2.2
