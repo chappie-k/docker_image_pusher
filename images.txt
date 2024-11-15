@@ -1,2 +1,2 @@
 #支持指定架构 
---platform=linux/arm64 apache/apisix-dashboard:3.0.1-alpine
+--platform=linux/arm64 apache/apisix:3.6.0-debian
