@@ -1,2 +1,2 @@
 #支持指定架构 
---platform=linux/arm64 rancher/coreos-etcd:v3.4.15-rancher1
+--platform=linux/arm64 apache/apisix-dashboard:3.0.1-alpine
