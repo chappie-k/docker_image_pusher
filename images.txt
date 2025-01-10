@@ -1,2 +1,2 @@
 #支持指定架构 
---platform=linux/arm64/v8 mysql:8.0.40
+--platform=linux/arm64/v8 apache/apisix:3.11.0-debian
