@@ -1,2 +1,2 @@
 #支持指定架构 
---platform=linux/arm64  bitnami/kafka:3.9.0
+--platform=linux/arm64 bitnami/zookeeper:3.8.4
