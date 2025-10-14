@@ -1,2 +1,2 @@
 #支持指定架构 
---platform=linux/arm64 elasticsearch:7.17.9
+--platform=linux/arm64 elasticsearch:7.17.26
